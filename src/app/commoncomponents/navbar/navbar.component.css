@@ -1,0 +1,20 @@
+.container img{max-width: 20%;
+}
+.container { 
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 20px;
+}
+.container button { 
+   background-color: #fff;
+   textcolor: #111;
+   border: none;
+   border-radius: 20px;
+   margin: 28px 0px;
+   font-weight: 700;
+   cursor: pointer;
+   transition: 420ms;
+}
+.container button:hover { 
+    background-color: #c4abab;
+}
